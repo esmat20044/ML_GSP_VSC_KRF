@@ -1,0 +1,11 @@
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/1/CMakeFiles/database.dir
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/1/CMakeFiles/TestNewFontAssembler.Debug+ITSboard_Assembly.dir
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/1/CMakeFiles/Group_Drivers_BSP_STM32F4xx_Nucleo_144.dir
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/1/CMakeFiles/Group_Drivers_Board.dir
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/1/CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/1/CMakeFiles/Group_Utils.dir
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/1/CMakeFiles/Group_LCD.dir
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/1/CMakeFiles/Group_ITS_BRD_LIB.dir
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/1/CMakeFiles/Group_Program_User_Src.dir
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/1/CMakeFiles/edit_cache.dir
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/1/CMakeFiles/rebuild_cache.dir

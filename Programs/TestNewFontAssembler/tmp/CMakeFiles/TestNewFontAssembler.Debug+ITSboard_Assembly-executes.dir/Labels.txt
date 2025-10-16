@@ -1,0 +1,12 @@
+# Target labels
+ TestNewFontAssembler.Debug+ITSboard_Assembly
+# Source files and their labels
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/CMakeFiles/TestNewFontAssembler.Debug+ITSboard_Assembly-executes
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/CMakeFiles/TestNewFontAssembler.Debug+ITSboard_Assembly-executes.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Debug+ITSboard_Assembly/src/TestNewFontAssembler.Debug+ITSboard_Assembly-stamp/TestNewFontAssembler.Debug+ITSboard_Assembly-executes.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Debug+ITSboard_Assembly/src/TestNewFontAssembler.Debug+ITSboard_Assembly-stamp/TestNewFontAssembler.Debug+ITSboard_Assembly-build.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Debug+ITSboard_Assembly/src/TestNewFontAssembler.Debug+ITSboard_Assembly-stamp/TestNewFontAssembler.Debug+ITSboard_Assembly-configure.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Debug+ITSboard_Assembly/src/TestNewFontAssembler.Debug+ITSboard_Assembly-stamp/TestNewFontAssembler.Debug+ITSboard_Assembly-patch.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Debug+ITSboard_Assembly/src/TestNewFontAssembler.Debug+ITSboard_Assembly-stamp/TestNewFontAssembler.Debug+ITSboard_Assembly-update.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Debug+ITSboard_Assembly/src/TestNewFontAssembler.Debug+ITSboard_Assembly-stamp/TestNewFontAssembler.Debug+ITSboard_Assembly-download.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Debug+ITSboard_Assembly/src/TestNewFontAssembler.Debug+ITSboard_Assembly-stamp/TestNewFontAssembler.Debug+ITSboard_Assembly-mkdir.rule

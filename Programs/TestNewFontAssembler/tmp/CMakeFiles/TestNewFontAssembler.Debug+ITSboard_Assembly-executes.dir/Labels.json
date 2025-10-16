@@ -1,0 +1,40 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/CMakeFiles/TestNewFontAssembler.Debug+ITSboard_Assembly-executes"
+		},
+		{
+			"file" : "/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/CMakeFiles/TestNewFontAssembler.Debug+ITSboard_Assembly-executes.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Debug+ITSboard_Assembly/src/TestNewFontAssembler.Debug+ITSboard_Assembly-stamp/TestNewFontAssembler.Debug+ITSboard_Assembly-executes.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Debug+ITSboard_Assembly/src/TestNewFontAssembler.Debug+ITSboard_Assembly-stamp/TestNewFontAssembler.Debug+ITSboard_Assembly-build.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Debug+ITSboard_Assembly/src/TestNewFontAssembler.Debug+ITSboard_Assembly-stamp/TestNewFontAssembler.Debug+ITSboard_Assembly-configure.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Debug+ITSboard_Assembly/src/TestNewFontAssembler.Debug+ITSboard_Assembly-stamp/TestNewFontAssembler.Debug+ITSboard_Assembly-patch.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Debug+ITSboard_Assembly/src/TestNewFontAssembler.Debug+ITSboard_Assembly-stamp/TestNewFontAssembler.Debug+ITSboard_Assembly-update.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Debug+ITSboard_Assembly/src/TestNewFontAssembler.Debug+ITSboard_Assembly-stamp/TestNewFontAssembler.Debug+ITSboard_Assembly-download.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Debug+ITSboard_Assembly/src/TestNewFontAssembler.Debug+ITSboard_Assembly-stamp/TestNewFontAssembler.Debug+ITSboard_Assembly-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TestNewFontAssembler.Debug+ITSboard_Assembly"
+		],
+		"name" : "TestNewFontAssembler.Debug+ITSboard_Assembly-executes"
+	}
+}

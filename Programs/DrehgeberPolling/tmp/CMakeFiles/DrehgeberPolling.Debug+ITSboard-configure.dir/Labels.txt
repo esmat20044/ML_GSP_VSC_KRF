@@ -1,0 +1,10 @@
+# Target labels
+ DrehgeberPolling.Debug+ITSboard
+# Source files and their labels
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/tmp/CMakeFiles/DrehgeberPolling.Debug+ITSboard-configure
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/tmp/CMakeFiles/DrehgeberPolling.Debug+ITSboard-configure.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/tmp/DrehgeberPolling.Debug+ITSboard/src/DrehgeberPolling.Debug+ITSboard-stamp/DrehgeberPolling.Debug+ITSboard-configure.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/tmp/DrehgeberPolling.Debug+ITSboard/src/DrehgeberPolling.Debug+ITSboard-stamp/DrehgeberPolling.Debug+ITSboard-patch.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/tmp/DrehgeberPolling.Debug+ITSboard/src/DrehgeberPolling.Debug+ITSboard-stamp/DrehgeberPolling.Debug+ITSboard-update.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/tmp/DrehgeberPolling.Debug+ITSboard/src/DrehgeberPolling.Debug+ITSboard-stamp/DrehgeberPolling.Debug+ITSboard-download.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/tmp/DrehgeberPolling.Debug+ITSboard/src/DrehgeberPolling.Debug+ITSboard-stamp/DrehgeberPolling.Debug+ITSboard-mkdir.rule

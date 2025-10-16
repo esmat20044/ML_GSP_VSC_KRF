@@ -1,0 +1,76 @@
+# ninja log v6
+1	18	1760626822389958310	CMakeFiles/database	b303958963292926
+1	18	1760626822389958310	/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/tmp/1/CMakeFiles/database	b303958963292926
+2	132	1760626833307547474	CMakeFiles/Group_Drivers_Board.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Src/startup/system_stm32f4xx.o	d99883d0552e9f4c
+3	133	1760626833308374341	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o	7a4c428c4c8cf3a6
+2	141	1760626833307206770	CMakeFiles/Group_Drivers_BSP_STM32F4xx_Nucleo_144.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/stm32cubef4/Drivers/BSP/STM32F4xx_Nucleo_144/stm32f4xx_nucleo_144.o	a83751a0b280ebe0
+3	142	1760626833308605089	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o	7e9ccde5b5ba1bd8
+4	144	1760626833309636078	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o	c985b2343ab863db
+4	152	1760626833309764493	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o	d5c028c4fb9a687c
+2	163	1760626833307701056	CMakeFiles/Group_Drivers_Board.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Src/startup/stm32f4xx_it.o	d6c3356924a0be1e
+3	184	1760626833308193509	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o	53a7d30130e4a7e0
+4	197	1760626833309309456	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o	deb3e4f30e4edfe2
+144	198	1760626833449323123	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/stm32cubef4/Utilities/Fonts/font12.o	ecc635eee6cf82c1
+142	204	1760626833447679890	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/stm32cubef4/Utilities/Fonts/font8.o	a17faaa95c6f7500
+152	222	1760626833457759285	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/stm32cubef4/Utilities/Fonts/font16.o	483ba3437ef75b7d
+163	251	1760626833468700671	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/stm32cubef4/Utilities/Fonts/font20.o	17451d2fe5ad8f08
+184	256	1760626833489512371	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/stm32cubef4/Utilities/Fonts/font24.o	f3aee37fea29710e
+197	271	1760626833502292488	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/Consolas40.o	15447731db03ba2f
+198	295	1760626833503681973	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/Consolas60.o	d7b09ebf829f7343
+251	322	1760626833556901211	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/ConsolasBold40.o	323d932103fb76ba
+204	324	1760626833509871575	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/Consolas80.o	a9ea90ea35ded2d0
+133	330	1760626833438152239	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o	127fdc9a9b2a41bf
+256	342	1760626833562032116	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/ConsolasBold60.o	e51a14d4d4e37e81
+324	403	1760626833629981616	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/CourierNewBold40.o	8181e6a75c2d2e37
+133	409	1760626833438470694	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.o	f34607f41b4401e6
+322	411	1760626833627993179	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/CourierNew48.o	46a607bfcba2148e
+271	413	1760626833576166677	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/ConsolasBold80.o	f00b8ad72fa311a4
+222	427	1760626833527523933	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/Consolas90.o	edfd5ed5d29f5b0f
+342	429	1760626833647951762	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/FiraMono40.o	c98f6e0a95b98ee2
+5	433	1760626833310213322	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.o	195a2ba68daaf4d3
+330	446	1760626833635535350	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/CourierNewBold60.o	8db05a9c43b32d39
+413	500	1760626833718480986	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/FiraMonoMedium40.o	3bc2b5114f5a4cac
+446	510	1760626833751876513	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/fontsFLASH.o	1c1d87eca4dbdb1a
+295	512	1760626833600866836	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/ConsolasBold90.o	985bbf624efb05c5
+403	519	1760626833708325134	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/FiraMono60.o	3ed4ef50d8c1443b
+427	523	1760626833732486840	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/FiraMonoMedium60.o	de8b650ef851d540
+141	529	1760626833446283321	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_eth.o	9cb7cbde0a9f83f
+510	614	1760626833815753431	CMakeFiles/Group_LCD.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/DisplayWaveshare/Src/LCD_GUI.o	b564d446c1007a87
+523	630	1760626833828695796	CMakeFiles/Group_LCD.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/DisplayWaveshare/Src/LCD_GPIO.o	87339082eba5a1ec
+411	631	1760626833716390425	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/FiraMono90.o	df86c5974c1196e7
+519	633	1760626833824515173	CMakeFiles/Group_LCD.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/DisplayWaveshare/Src/LCD_SPI.o	8a6e5bffd463c92b
+529	635	1760626833834772233	CMakeFiles/Group_LCD.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/DisplayWaveshare/Src/LCD_TIM.o	9dfb8473351e95ff
+434	635	1760626833739082563	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/FiraMonoMedium90.o	a3cb9fc8f5de8bc0
+4	644	1760626833309873034	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.o	fa7f910124c8b8f5
+512	666	1760626833817444122	CMakeFiles/Group_LCD.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/DisplayWaveshare/Src/LCD_Touch.o	8d1d13f11e3a7cb5
+409	681	1760626833714675609	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/FiraMono80.o	c25aed687c8b0cb3
+633	700	1760626833938530152	CMakeFiles/Group_LCD.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/DisplayWaveshare/Src/LCD_Demos.o	4b5a93b9fc5c2d3c
+631	707	1760626833936853378	CMakeFiles/Group_LCD.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/DisplayWaveshare/Src/LCD_Debug.o	d1664a3e2c3ff1e4
+635	718	1760626833940831962	CMakeFiles/Group_ITS_BRD_LIB.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Src/lcd.o	19a0e6fc325e2e62
+666	743	1760626833971885347	CMakeFiles/Group_ITS_BRD_LIB.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Src/terminal.o	7300c3c4819c1777
+429	745	1760626833734831108	CMakeFiles/Group_Utils.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Utilities/AddFonts/FiraMonoMedium80.o	5e2191d5bb740a18
+500	750	1760626833805641245	CMakeFiles/Group_LCD.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/DisplayWaveshare/Src/LCD_Driver.o	dbc43e7bdfd40b5a
+635	763	1760626833940206343	CMakeFiles/Group_ITS_BRD_LIB.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Src/error.o	9618beb30d678fc7
+644	772	1760626833950007700	CMakeFiles/Group_ITS_BRD_LIB.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Src/init.o	aaf5606d84525fe1
+681	792	1760626833986972398	CMakeFiles/Group_ITS_BRD_LIB.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Src/keypad.o	e34e595d2630d9ca
+614	799	1760626833920011679	CMakeFiles/Group_LCD.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/DisplayWaveshare/Src/LCD_Tools.o	96c00260d64feca0
+630	800	1760626833935193812	CMakeFiles/Group_LCD.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/DisplayWaveshare/Src/testsoftware.o	7a9f71d3861b473
+743	823	1760626834048290051	CMakeFiles/Group_ITS_BRD_LIB.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Src/stdinout_USART.o	6edacbe56cf06f74
+750	833	1760626834055859930	CMakeFiles/Group_Program_User_Src.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/Src/fsm.o	e8f3d8c2c63d8c81
+745	838	1760626834050978939	CMakeFiles/Group_Program_User_Src.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/Src/TFTOutput.o	d410cc0f2b2ec8be
+707	859	1760626834013056168	CMakeFiles/Group_ITS_BRD_LIB.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Src/timer.o	c97a364414b1d3a4
+700	860	1760626834005284165	CMakeFiles/Group_ITS_BRD_LIB.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Src/delay.o	4d869486fa6be840
+763	887	1760626834068181510	CMakeFiles/Group_Program_User_Src.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/Src/input.o	57d6ff2b6e130743
+792	894	1760626834097240083	CMakeFiles/Group_Program_User_Src.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/Src/output.o	6175603b36063d7f
+772	896	1760626834077999616	CMakeFiles/Group_Program_User_Src.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/Src/main.o	88f968acc78eec38
+800	902	1760626834105353248	CMakeFiles/Group_Program_User_Src.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/Src/update.o	c8de4b18f7480160
+800	909	1760626834105067959	CMakeFiles/Group_Program_User_Src.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/Src/timecalc.o	1d9ff99a6ce01fe3
+718	912	1760626834023277645	CMakeFiles/Group_ITS_BRD_LIB.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Src/USART_STM32F4xx.o	97485d2f345e5c2
+2	1401	1760626833307429809	CMakeFiles/Group_Drivers_Board.dir/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2_SM/GSP/ML_GSP_VSC_KRF/ITS_BRD_LIB/Src/startup/startup_stm32f429xx.o	107539005d604ad8
+1401	2250	1760626834706478655	/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/out/DrehgeberPolling/ITSboard/Debug/DrehgeberPolling.axf	f2f9a2d89f31e068
+1	19	1760626835581415958	CMakeFiles/database	b303958963292926
+1	19	1760626835581415958	/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/tmp/1/CMakeFiles/database	b303958963292926
+0	17	1760627328471886467	CMakeFiles/database	b303958963292926
+0	17	1760627328471886467	/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/tmp/1/CMakeFiles/database	b303958963292926
+1	17	1760627332999976308	CMakeFiles/database	b303958963292926
+1	17	1760627332999976308	/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/tmp/1/CMakeFiles/database	b303958963292926

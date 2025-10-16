@@ -1,0 +1,16 @@
+# Target labels
+ Hallo.Debug+ITSboard
+# Source files and their labels
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/Hallo/tmp/CMakeFiles/Hallo.Debug+ITSboard
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/Hallo/tmp/CMakeFiles/Hallo.Debug+ITSboard.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/Hallo/tmp/CMakeFiles/Hallo.Debug+ITSboard-complete.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/Hallo/tmp/Hallo.Debug+ITSboard/src/Hallo.Debug+ITSboard-stamp/Hallo.Debug+ITSboard-build.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/Hallo/tmp/Hallo.Debug+ITSboard/src/Hallo.Debug+ITSboard-stamp/Hallo.Debug+ITSboard-configure.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/Hallo/tmp/Hallo.Debug+ITSboard/src/Hallo.Debug+ITSboard-stamp/Hallo.Debug+ITSboard-database.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/Hallo/tmp/Hallo.Debug+ITSboard/src/Hallo.Debug+ITSboard-stamp/Hallo.Debug+ITSboard-download.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/Hallo/tmp/Hallo.Debug+ITSboard/src/Hallo.Debug+ITSboard-stamp/Hallo.Debug+ITSboard-executes.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/Hallo/tmp/Hallo.Debug+ITSboard/src/Hallo.Debug+ITSboard-stamp/Hallo.Debug+ITSboard-install.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/Hallo/tmp/Hallo.Debug+ITSboard/src/Hallo.Debug+ITSboard-stamp/Hallo.Debug+ITSboard-mkdir.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/Hallo/tmp/Hallo.Debug+ITSboard/src/Hallo.Debug+ITSboard-stamp/Hallo.Debug+ITSboard-patch.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/Hallo/tmp/Hallo.Debug+ITSboard/src/Hallo.Debug+ITSboard-stamp/Hallo.Debug+ITSboard-test.rule
+/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/Hallo/tmp/Hallo.Debug+ITSboard/src/Hallo.Debug+ITSboard-stamp/Hallo.Debug+ITSboard-update.rule

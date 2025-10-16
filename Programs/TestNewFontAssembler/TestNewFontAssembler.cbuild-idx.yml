@@ -1,0 +1,20 @@
+build-idx:
+  generated-by: csolution version 2.11.0
+  cdefault: ${CMSIS_COMPILER_ROOT}/cdefault.yml
+  csolution: TestNewFontAssembler.csolution.yml
+  cbuild-run: out/TestNewFontAssembler+ITSboard_Assembly.cbuild-run.yml
+  tmpdir: tmp
+  cprojects:
+    - cproject: TestNewFontAssembler.cproject.yml
+  cbuilds:
+    - cbuild: out/TestNewFontAssembler/ITSboard_Assembly/Debug/TestNewFontAssembler.Debug+ITSboard_Assembly.cbuild.yml
+      project: TestNewFontAssembler
+      configuration: .Debug+ITSboard_Assembly
+      messages:
+        info:
+          - TestNewFontAssembler.cbuild-pack.yml - file is already up-to-date
+          - TestNewFontAssembler+ITSboard_Assembly.cbuild-run.yml - file is already up-to-date
+          - TestNewFontAssembler.Debug+ITSboard_Assembly.cbuild.yml - file is already up-to-date
+      packs-unused:
+        - pack: ARM::CMSIS-DSP@1.16.2
+        - pack: ARM::CMSIS-NN@7.0.0
