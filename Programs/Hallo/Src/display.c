@@ -6,6 +6,7 @@
   *        It places two terminals in the terminal area of keypad.
   *        One terminal will be used for standard output. The other one
   *        echos pressed digit keys.
+  *hallo 
   */
 
 #include "display.h"
