@@ -1,0 +1,8 @@
+/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/CMakeFiles/database.dir
+/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/CMakeFiles/Taschenrechner.Debug+ITSboard.dir
+/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/CMakeFiles/Taschenrechner.Debug+ITSboard-build.dir
+/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/CMakeFiles/Taschenrechner.Debug+ITSboard-configure.dir
+/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/CMakeFiles/Taschenrechner.Debug+ITSboard-executes.dir
+/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/CMakeFiles/Taschenrechner.Debug+ITSboard-database.dir
+/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/CMakeFiles/edit_cache.dir
+/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/CMakeFiles/rebuild_cache.dir

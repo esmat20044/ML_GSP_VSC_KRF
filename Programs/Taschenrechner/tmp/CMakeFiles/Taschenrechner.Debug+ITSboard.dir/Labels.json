@@ -1,0 +1,52 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/CMakeFiles/Taschenrechner.Debug+ITSboard"
+		},
+		{
+			"file" : "/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/CMakeFiles/Taschenrechner.Debug+ITSboard.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/CMakeFiles/Taschenrechner.Debug+ITSboard-complete.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/Taschenrechner.Debug+ITSboard/src/Taschenrechner.Debug+ITSboard-stamp/Taschenrechner.Debug+ITSboard-build.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/Taschenrechner.Debug+ITSboard/src/Taschenrechner.Debug+ITSboard-stamp/Taschenrechner.Debug+ITSboard-configure.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/Taschenrechner.Debug+ITSboard/src/Taschenrechner.Debug+ITSboard-stamp/Taschenrechner.Debug+ITSboard-database.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/Taschenrechner.Debug+ITSboard/src/Taschenrechner.Debug+ITSboard-stamp/Taschenrechner.Debug+ITSboard-download.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/Taschenrechner.Debug+ITSboard/src/Taschenrechner.Debug+ITSboard-stamp/Taschenrechner.Debug+ITSboard-executes.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/Taschenrechner.Debug+ITSboard/src/Taschenrechner.Debug+ITSboard-stamp/Taschenrechner.Debug+ITSboard-install.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/Taschenrechner.Debug+ITSboard/src/Taschenrechner.Debug+ITSboard-stamp/Taschenrechner.Debug+ITSboard-mkdir.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/Taschenrechner.Debug+ITSboard/src/Taschenrechner.Debug+ITSboard-stamp/Taschenrechner.Debug+ITSboard-patch.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/Taschenrechner.Debug+ITSboard/src/Taschenrechner.Debug+ITSboard-stamp/Taschenrechner.Debug+ITSboard-test.rule"
+		},
+		{
+			"file" : "/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/Taschenrechner.Debug+ITSboard/src/Taschenrechner.Debug+ITSboard-stamp/Taschenrechner.Debug+ITSboard-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Taschenrechner.Debug+ITSboard"
+		],
+		"name" : "Taschenrechner.Debug+ITSboard"
+	}
+}

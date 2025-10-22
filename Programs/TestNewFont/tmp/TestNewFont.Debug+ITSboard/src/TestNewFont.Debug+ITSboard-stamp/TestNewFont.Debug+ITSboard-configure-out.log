@@ -6,6 +6,6 @@
 -- Check for working C compiler: /Users/esmatrabaki/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.24.0/bin//armclang - skipped
 -- Detecting C compile features
 -- Detecting C compile features - done
--- Configuring done (0.6s)
+-- Configuring done (1.3s)
 -- Generating done (0.0s)
--- Build files have been written to: /Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFont/tmp/1
+-- Build files have been written to: /Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/TestNewFont/tmp/1

@@ -117,7 +117,7 @@
   "cmake.ignoreCMakeListsMissing": true,
   "C_Cpp_Runner.msvcBatchPath": "",
   "clangd.arguments": [
-    "--compile-commands-dir=/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/Hallo/out/Hallo/ITSboard/Debug"
+    "--compile-commands-dir=/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/out/Taschenrechner/ITSboard/Debug"
   ],
   "debug.hideSlowPreLaunchWarning": true
 }

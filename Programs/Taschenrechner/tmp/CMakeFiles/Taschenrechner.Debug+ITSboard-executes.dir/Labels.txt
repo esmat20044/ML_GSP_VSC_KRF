@@ -1,0 +1,12 @@
+# Target labels
+ Taschenrechner.Debug+ITSboard
+# Source files and their labels
+/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/CMakeFiles/Taschenrechner.Debug+ITSboard-executes
+/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/CMakeFiles/Taschenrechner.Debug+ITSboard-executes.rule
+/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/Taschenrechner.Debug+ITSboard/src/Taschenrechner.Debug+ITSboard-stamp/Taschenrechner.Debug+ITSboard-executes.rule
+/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/Taschenrechner.Debug+ITSboard/src/Taschenrechner.Debug+ITSboard-stamp/Taschenrechner.Debug+ITSboard-build.rule
+/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/Taschenrechner.Debug+ITSboard/src/Taschenrechner.Debug+ITSboard-stamp/Taschenrechner.Debug+ITSboard-configure.rule
+/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/Taschenrechner.Debug+ITSboard/src/Taschenrechner.Debug+ITSboard-stamp/Taschenrechner.Debug+ITSboard-patch.rule
+/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/Taschenrechner.Debug+ITSboard/src/Taschenrechner.Debug+ITSboard-stamp/Taschenrechner.Debug+ITSboard-update.rule
+/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/Taschenrechner.Debug+ITSboard/src/Taschenrechner.Debug+ITSboard-stamp/Taschenrechner.Debug+ITSboard-download.rule
+/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/tmp/Taschenrechner.Debug+ITSboard/src/Taschenrechner.Debug+ITSboard-stamp/Taschenrechner.Debug+ITSboard-mkdir.rule

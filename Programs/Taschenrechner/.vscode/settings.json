@@ -1,0 +1,6 @@
+{
+    "clangd.arguments": [
+        "--compile-commands-dir=/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/out/Taschenrechner/ITSboard/Debug"
+    ],
+    "debug.hideSlowPreLaunchWarning": true
+}

@@ -177,11 +177,8 @@ project:
     # Benutzerdefinierte Programmdateien
     - group: Program/User/Src
       files:
-        - file: Src/arith_lib.c
-        - file: Src/display.c
-        - file: Src/int_stack.c
         - file: Src/main.c
-        - file: Src/scanner.c
+
 
   components:
     - component: ARM::CMSIS:CORE

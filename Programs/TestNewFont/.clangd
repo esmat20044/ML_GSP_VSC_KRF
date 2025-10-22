@@ -1,7 +1,6 @@
 CompileFlags:
   CompilationDatabase: >-
-    /Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2
-    SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFont/out/TestNewFont/ITSboard/Debug
+    /Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/TestNewFont/out/TestNewFont/ITSboard/Debug
   Add:
     - '-D_ILP32=1'
     - '-D_USE_STATIC_INLINE=1'
@@ -413,7 +412,29 @@ CompileFlags:
     - '-D__thumb2__=1'
     - '-D__thumb__=1'
     - '-D__ARMCOMPILER_LIBCXX=1'
-    - '-I"/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2'
+    - '-I/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/TestNewFont/Inc'
+    - >-
+      -I/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/TestNewFont/../../stm32cubef4/Drivers/CMSIS/Device/ST/STM32F4xx/Include
+    - >-
+      -I/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/TestNewFont/../../stm32cubef4/Drivers/CMSIS/Include
+    - >-
+      -I/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/TestNewFont/../../stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Inc
+    - >-
+      -I/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/TestNewFont/../../stm32cubef4/Drivers/BSP/STM32F4xx_Nucleo_144
+    - >-
+      -I/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/TestNewFont/../../stm32cubef4/Utilities/Fonts
+    - >-
+      -I/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/TestNewFont/../../DisplayWaveshare/Inc
+    - >-
+      -I/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/TestNewFont/../../ITS_BRD_LIB/Utilities/AddFonts
+    - >-
+      -I/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/TestNewFont/../../lwip/src/include
+    - >-
+      -I/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard
+    - >-
+      -I/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/TestNewFont/RTE/_Debug_ITSboard
     - '-I/Users/esmatrabaki/.cache/arm/packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include'
     - >-
       -I/Users/esmatrabaki/.cache/arm/packs/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include
+    - >-
+      -I/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/TestNewFont/../../ITS_BRD_LIB/Inc

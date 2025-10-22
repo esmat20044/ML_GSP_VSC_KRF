@@ -23,7 +23,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /Users/esmatrabaki/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/bin/cmake --regenerate-during-build -S"/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFont/tmp" -B"/Users/esmatrabaki/Library/CloudStorage/OneDrive-HAW-HH/ITS/2 SM/GSP/ML_GSP_VSC_KRF/Programs/TestNewFont/tmp"
+  command = /Users/esmatrabaki/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/bin/cmake --regenerate-during-build -S/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/TestNewFont/tmp -B/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/TestNewFont/tmp
   description = Re-running CMake...
   generator = 1
 
