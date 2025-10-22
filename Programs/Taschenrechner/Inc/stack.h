@@ -19,6 +19,9 @@ void stack_init(void);
 // Gibt 0 bei Erfolg, -1 bei Overflow zurück
 int push(int value);
 
+
+int push(int value);int push(int value);int push(int value);int push(int value);
+
 // Holt das oberste Element vom Stack herunter
 // Gibt 0 bei Erfolg, -1 bei Underflow zurück
 int pop(int *value);
