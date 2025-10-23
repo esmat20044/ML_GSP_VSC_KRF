@@ -117,7 +117,7 @@
   "cmake.ignoreCMakeListsMissing": true,
   "C_Cpp_Runner.msvcBatchPath": "",
   "clangd.arguments": [
-    "--compile-commands-dir=/Users/esmatrabaki/ML_GSP_VSC_KRF/Programs/Taschenrechner/out/Taschenrechner/ITSboard/Debug"
+    "--compile-commands-dir=/Users/esmatrabaki/ML_GSP_VSC_KRF/ML_GSP_VSC_KRF/Programs/DrehgeberPolling/out/DrehgeberPolling/ITSboard/Debug"
   ],
   "debug.hideSlowPreLaunchWarning": true
 }
