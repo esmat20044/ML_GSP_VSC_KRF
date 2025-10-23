@@ -13,15 +13,17 @@ void rechnen(T_token token)
             break;
 
         case PLUS:
-            if (pop(&a) == 0 && pop(&b) == 0) 
+            if (pop(a) == 0 && pop(b) == 0) 
             {
                 result = b + a;
                 push(result);
+
             }
+
             break;
 
         case MINUS:
-            if (pop(&a) == 0 && pop(&b) == 0) 
+            if (pop(a) == 0 && pop(b) == 0) 
             {
 
                 result = b - a;
@@ -30,7 +32,7 @@ void rechnen(T_token token)
             break;
 
         case MULT:
-            if (pop(&a) == 0 && pop(&b) == 0) 
+            if (pop(a) == 0 && pop(b) == 0) 
             {
                 result = b * a;
                 push(result);
@@ -38,37 +40,18 @@ void rechnen(T_token token)
             break;
 
         case DIV:
-            if (pop(&a) == 0 && pop(&b) == 0) 
+            if (pop(a) == 0 && pop(b) == 0) 
             {
                     result = b / a;
                     push(result);
                 
             }
             break;
-
         case PRT:
-            if (peek(&a) == 0) 
-            {
-
-
-                
-                // wie soll ich ausgeben
-        
+        pop( a);
 
 
 
-            }
-            break;
-
-        case PRT_ALL:
-            // Alle Werte anzeigen 
-            
-
-
-                    // wie soll ich ausgeben
-
-
-            break;
 
         case CLEAR:
             clear_stack();
