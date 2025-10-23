@@ -51,7 +51,7 @@ void rechnen(T_token token)
             {
 
 
-
+                
                 // wie soll ich ausgeben
         
 
