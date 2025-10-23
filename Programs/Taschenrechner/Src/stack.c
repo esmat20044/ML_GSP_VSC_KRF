@@ -22,8 +22,6 @@ int isEmpty(void)
 }
 
 
-
-
 /**
  * Fügt ein Element zum Stack hinzu .
  @param zahl wird auf stack gepackt

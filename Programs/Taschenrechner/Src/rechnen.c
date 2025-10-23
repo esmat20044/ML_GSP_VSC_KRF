@@ -2,14 +2,14 @@
 #include "token.h"
 #include "display.h"
 
-void rechnen(char token)
+void rechnen(T_token token)
 {
     int a, b, result;
 
-    switch ()
+    switch (token.tok)
     {
         case NUMBER:
-            push(number);
+            push(token.val);
             break;
 
         case PLUS:
